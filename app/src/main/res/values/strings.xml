@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lalamove</string>
+    <string name="title_activity_main">Lalamove Challenge</string>
+    <string name="default_description">Default description by Deliver</string>
+</resources>

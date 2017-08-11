@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464159240433",
+    "firebase_url": "https://lalamove-challenge.firebaseio.com",
+    "project_id": "lalamove-challenge",
+    "storage_bucket": "lalamove-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464159240433:android:13d669a6187fe178",
+        "android_client_info": {
+          "package_name": "com.challenge.lalamove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464159240433-2v79dfrc6l2mtj7tp8ue0rlkf4svhcaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.challenge.lalamove",
+            "certificate_hash": "0e98f886b0892714b923489b821f2b59b972d3a8"
+          }
+        },
+        {
+          "client_id": "464159240433-saenm8s2qvlfg9mkgclrqe1igpa14h8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByqZVnYWfNDLDX-w786NnYkZrW2JUUjRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464159240433-saenm8s2qvlfg9mkgclrqe1igpa14h8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
